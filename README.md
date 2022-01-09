@@ -23,6 +23,6 @@ This project proposed as “Noite” , Besides relieving much of the stress enco
 
 <b> Application Link & Future Scope : </b>
 
-The app is currently in testing phase with MMMUT(Google Developer Students Club,mmmut) University with a limited no. of users, You can access the app : [YOUR APP LINK HERE](G-drive lik).
+The app is currently in testing phase with MMMUT(Google Developer Students Club,mmmut) University with a limited no. of users, You can access the app : [https://drive.google.com/file/d/1x4Ni1sZ7Ul-8CDUsakdMUfcpFd5yaA5g/view?usp=sharing](G-drive lik).
 
 Once the app is fully tested and functional in MMMUT, we plan to talk to other technical clubs of our college to propose this app idea and collaborate with them on this To-do app.
