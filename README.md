@@ -11,7 +11,7 @@ That’s where keeping notes, as well as the general idea of breaking Big info d
 
 This project proposed as “Noite” , Besides relieving much of the stress encountered when tackling complex tasks, making it simpler to verify that each and every step has been completed. Finally, it becomes possible to verify the quality of each of these steps, take notes of each Over time, as more and more tasks are completed with the assistance of taking notes, the overall work helps to create remarkable large-scale projects and accomplishments. In other words, the sky is the limit for results produced by taking notes
 
-<img width="559" alt="sampleimages" src="https://github.com/coderaky/Toedoe/blob/main/readme%20assets/Artboard%201.png">
+<img width="559" alt="sampleimages" src="https://github.com/coderaky/Noite/blob/main/shreenshot.png">
     	  	
 <b> Functionality & Concepts used : </b>
 
