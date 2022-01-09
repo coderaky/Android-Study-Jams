@@ -15,10 +15,10 @@ This project proposed as “Noite” , Besides relieving much of the stress enco
     	  	
 <b> Functionality & Concepts used : </b>
 
-- The App has a very simple and interactive interface which helps the user to add his/her task with ease and preoritise it. Following are few android concepts used to achieve the functionalities in app : 
+- The App has a very simple and interactive interface which helps the user to add his/her notes with ease and preoritise it. Following are few android concepts used to achieve the functionalities in app : 
 - Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
-- Simple & Easy Views Design : Use of familiar audience EditText and interactive buttons made it easier for users to add their task, edit and also delete it when completed.
-- Room Database : Since the device canot access the network still, the user can still browse that content while they are offline.By useing room database made a local storage to store the tasks. even when the app is closed the data is retrived when its open again.
+- Simple & Easy Views Design : Use of familiar audience EditText and interactive buttons made it easier for users to add their notes, edit and also delete it,archive it, search for notes etc.
+- Room Database : Since the device canot access the network still, the user can still browse that content while they are offline.By useing room database made a local storage to store the notes. even when the app is closed the data is retrived when its open again.
 - MVVM and Architecture components are used.
 
 <b> Application Link & Future Scope : </b>
